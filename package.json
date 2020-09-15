@@ -1,0 +1,22 @@
+{
+  "name": "palindrome-checker",
+  "version": "1.0.0",
+  "description": "fcc palindrome checker project",
+  "main": "checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irensaywhen/palindrome-checker.git"
+  },
+  "author": "Irina Gataullina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irensaywhen/palindrome-checker/issues"
+  },
+  "homepage": "https://github.com/irensaywhen/palindrome-checker#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
