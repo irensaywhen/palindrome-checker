@@ -25,7 +25,7 @@ test('"A man, a plan, a canal. Panama" is palindrome', () => {
 });
 
 test('"never odd or even" is a palindrome', () => {
-  expect(inPalindrome('never odd or even')).toBe(true);
+  expect(isPalindrome('never odd or even')).toBe(true);
 });
 
 test('"nope" is not a palindrome', () => {
